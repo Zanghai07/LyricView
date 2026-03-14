@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/java/com/fangfei/lyricview/LyricView.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 5353,
+          "line": 158
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/java/com/fangfei/lyricview/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 4118,
+          "line": 147
+        },
+        "start": {
+          "column": 1,
+          "index": 4118,
+          "line": 147
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 1550,
+          "line": 49
+        },
+        "start": {
+          "column": 15,
+          "index": 1550,
+          "line": 49
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/java/com/fangfei/lyricview/LyricView.kt"
+}
