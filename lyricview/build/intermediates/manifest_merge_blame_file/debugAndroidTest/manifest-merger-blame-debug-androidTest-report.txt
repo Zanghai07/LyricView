@@ -3,24 +3,24 @@
 3    package="com.fangfei.lyricview.test" >
 4
 5    <uses-sdk
-5-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:5:5-74
+5-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:5:15-41
+6-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:5:15-41
 7        android:targetSdkVersion="21" />
-7-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:5:42-71
+7-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:5:42-71
 8
 9    <instrumentation
-9-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:11:5-15:76
+9-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:11:5-15:76
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:11:22-75
+10-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:11:22-75
 11        android:functionalTest="false"
-11-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:14:22-52
+11-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:13:22-53
+12-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:13:22-53
 13        android:label="Tests for com.fangfei.lyricview.test"
-13-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:15:22-74
+13-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:15:22-74
 14        android:targetPackage="com.fangfei.lyricview.test" />
-14-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:12:22-72
+14-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:12:22-72
 15
 16    <permission
 16-->[androidx.core:core:1.12.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/9e250adc318c3afccd3951b95ad536c6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
@@ -34,13 +34,13 @@
 20-->[androidx.core:core:1.12.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/9e250adc318c3afccd3951b95ad536c6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:7:5-9:19
+22-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:7:5-9:19
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 23-->[androidx.core:core:1.12.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/9e250adc318c3afccd3951b95ad536c6/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 24        android:debuggable="true" >
 25        <uses-library android:name="android.test.runner" />
-25-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:8:9-60
-25-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2502423292454927025.xml:8:23-57
+25-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:8:9-60
+25-->/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2809433840009675609.xml:8:23-57
 26
 27        <provider
 27-->[androidx.emoji2:emoji2:1.2.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/f84410a640cd1fae1ee5cfabdb4e78ac/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20

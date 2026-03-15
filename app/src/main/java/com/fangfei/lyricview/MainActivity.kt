@@ -17,46 +17,37 @@ class MainActivity : AppCompatActivity() {
     private val handler = Handler(Looper.getMainLooper())
     private var currentLine = 0
     private var isPlaying = false
-    
-    // Lirik yang lebih proper buat testing
     private val sampleLyrics = listOf(
-        // Verse 1
         "Mungkin suatu nanti",
         "Kita kan bertemu lagi",
         "Dalam cerita yang berbeda",
         "Namun rasa yang sama",
         "",
-        // Verse 2
         "Kau dan aku tahu",
         "Bahwa cinta takkan pernah mati",
         "Hanya berganti wajah",
         "Dalam hidup yang baru",
         "",
-        // Verse 3
         "Dan di setiap hela nafas",
         "Kusebut namamu",
         "Walau kau takkan dengar",
         "Namun hati selalu tahu",
         "",
-        // Verse 4 (repeat)
         "Mungkin suatu nanti",
         "Kita kan bertemu lagi",
         "Dalam cerita yang berbeda",
         "Namun rasa yang sama",
         "",
-        // Verse 5
         "Kau dan aku tahu",
         "Bahwa cinta takkan pernah mati",
         "Hanya berganti wajah",
         "Dalam hidup yang baru",
         "",
-        // Verse 6
         "Dan di setiap hela nafas",
         "Kusebut namamu",
         "Walau kau takkan dengar",
         "Namun hati selalu tahu",
         "",
-        // Outro
         "Hanya berganti wajah",
         "Dalam hidup yang baru",
         "Mungkin suatu nanti..."
@@ -116,12 +107,10 @@ class MainActivity : AppCompatActivity() {
         currentLine++
         
         if (currentLine < sampleLyrics.size) {
-            // Schedule next line
             handler.postDelayed({
                 simulateNextLine()
-            }, 1800) // 1.8 detik biar lebih smooth
+            }, 1800)
         } else {
-            // Selesai semua baris
             isPlaying = false
             btnStart.text = "Start"
             btnReset.isEnabled = true

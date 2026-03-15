@@ -104,7 +104,52 @@
           "line": 19
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 49,
+          "line": 1
+        },
+        "start": {
+          "column": 10,
+          "index": 49,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/java/com/fangfei/lyricview/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 33,
+          "index": 607,
+          "line": 18
+        },
+        "start": {
+          "column": 33,
+          "index": 607,
+          "line": 18
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/java/com/fangfei/lyricview/LyricView.kt"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/java/com/fangfei/lyricview/MainActivity.kt"
 }
