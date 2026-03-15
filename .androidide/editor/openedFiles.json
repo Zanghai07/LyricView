@@ -1,12 +1,12 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/java/com/fangfei/lyricview/LyricView.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 1,
-          "index": 5353,
-          "line": 158
+          "column": 0,
+          "index": 0,
+          "line": 0
         },
         "start": {
           "column": 0,
@@ -16,32 +16,92 @@
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/java/com/fangfei/lyricview/MainActivity.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/res/layout/activity_main.xml",
       "selection": {
         "end": {
-          "column": 1,
-          "index": 4118,
-          "line": 147
+          "column": 0,
+          "index": 0,
+          "line": 0
         },
         "start": {
-          "column": 1,
-          "index": 4118,
-          "line": 147
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/src/main/res/layout/activity_main.xml",
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 15,
-          "index": 1550,
-          "line": 49
+          "column": 0,
+          "index": 199,
+          "line": 12
         },
         "start": {
-          "column": 15,
-          "index": 1550,
-          "line": 49
+          "column": 0,
+          "index": 199,
+          "line": 12
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 46,
+          "index": 142,
+          "line": 6
+        },
+        "start": {
+          "column": 46,
+          "index": 142,
+          "line": 6
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/java/com/fangfei/lyricview/LyricView.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1,
+          "line": 1
+        },
+        "start": {
+          "column": 0,
+          "index": 1,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/LyricView/lyricview/src/main/res/values/attrs.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 710,
+          "line": 19
+        },
+        "start": {
+          "column": 0,
+          "index": 710,
+          "line": 19
         }
       }
     }

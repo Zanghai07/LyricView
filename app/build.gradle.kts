@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.fangfei.lyricview.sample"  // <- namespace di sini
+    namespace = "com.fangfei.lyricview.sample"
     compileSdk = 34
 
     defaultConfig {
@@ -13,7 +13,6 @@ android {
         targetSdk = 34
     }
 
-    // TAMBAHKAN INI JUGA:
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
@@ -29,7 +28,7 @@ android {
 }
 
 dependencies {
-    implementation(project(":lyricview"))  // <-- PENTING: pake library kita
+    implementation(project(":lyricview"))
     
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")

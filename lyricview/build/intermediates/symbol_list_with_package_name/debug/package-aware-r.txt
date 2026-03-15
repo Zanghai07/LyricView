@@ -1,1 +1,13 @@
 com.fangfei.lyricview
+attr currentAlpha
+attr currentColor
+attr currentTextSize
+attr futureAlpha
+attr lyricsAlignment
+attr normalColor
+attr normalTextSize
+attr pastAlpha
+id center
+id left
+id right
+styleable LyricView currentAlpha currentColor currentTextSize futureAlpha lyricsAlignment normalColor normalTextSize pastAlpha

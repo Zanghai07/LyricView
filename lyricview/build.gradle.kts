@@ -4,21 +4,20 @@ plugins {
 }
 
 android {
-    namespace = "com.fangfei.lyricview"  // <- namespace pindah ke sini!
+    namespace = "com.fangfei.lyricview"
     compileSdk = 34
 
     defaultConfig {
         minSdk = 21
     }
 
-    // TAMBAHKAN INI:
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17   // Samain dengan Kotlin
+        sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = "17"  // Bisa juga "1.8", yang penting sama semua
+        jvmTarget = "17"
     }
 
     buildTypes {

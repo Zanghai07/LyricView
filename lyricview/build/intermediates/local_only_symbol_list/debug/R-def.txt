@@ -1,2 +1,14 @@
 R_DEF: Internal format may change without notice
 local
+attr? currentAlpha
+attr? currentColor
+attr? currentTextSize
+attr? futureAlpha
+attr? lyricsAlignment
+attr? normalColor
+attr? normalTextSize
+attr? pastAlpha
+id center
+id left
+id right
+styleable LyricView currentTextSize normalTextSize currentAlpha pastAlpha futureAlpha normalColor currentColor lyricsAlignment

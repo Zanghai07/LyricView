@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LyricView">
+
+        <attr format="dimension" name="currentTextSize"/>
+        <attr format="dimension" name="normalTextSize"/>
+        <attr format="integer" name="currentAlpha"/>
+        <attr format="integer" name="pastAlpha"/>
+        <attr format="integer" name="futureAlpha"/>
+        <attr format="color" name="normalColor"/>
+        <attr format="color" name="currentColor"/>
+        <attr format="enum" name="lyricsAlignment">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+
+    </declare-styleable>
+</resources>
